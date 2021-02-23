@@ -53,14 +53,14 @@ nav {
 a {
     color: #ffffff;
     text-decoration: none;
-}
+}digital-marketing-meeting
 
 /* Hero */
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg" alt);
     background-size: cover;
     background-position: center;
 }
